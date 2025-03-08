@@ -1,0 +1,1 @@
+This is the quick sort Algorithm's implementation in C++
